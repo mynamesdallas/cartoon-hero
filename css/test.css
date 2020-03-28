@@ -1,0 +1,11 @@
+body{
+	background-color: blue;
+}
+h2{
+font-size: 30px;
+color: green;
+}
+
+.uppercase{
+text-transform: uppercase;
+}
